@@ -1,0 +1,7 @@
+## To run application
+```./gradlew run```
+
+The output file (errors.json) can be found in the root directory
+
+## To run tests
+```./gradlew test```
